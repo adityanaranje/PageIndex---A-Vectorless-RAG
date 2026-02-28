@@ -1,5 +1,8 @@
 # 📘 PageIndex: Structure-Aware Retrieval for Long Documents
 
+![](https://github.com/adityanaranje/PageIndex---A-Vectorless-RAG/blob/4567fa3a8f7f96bb5dc6b7e836e7ce6a8373d782/pageindex.png)
+
+----
 ## 🚀 Overview
 
 Traditional retrieval systems often struggle with **long, complex documents** such as:
