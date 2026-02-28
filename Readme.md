@@ -198,9 +198,3 @@ By replacing similarity search with **LLM reasoning over document structure**, i
 
 ---
 
-## 🧑‍💻 Author
-
-Aditya Naranje
-
----
-
